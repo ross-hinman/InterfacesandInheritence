@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesandInheritance", "InterfacesandInheritance\InterfacesandInheritance.csproj", "{E315D13E-7431-4AD2-95F7-AFAD2D7CCD77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E315D13E-7431-4AD2-95F7-AFAD2D7CCD77}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E315D13E-7431-4AD2-95F7-AFAD2D7CCD77}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E315D13E-7431-4AD2-95F7-AFAD2D7CCD77}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E315D13E-7431-4AD2-95F7-AFAD2D7CCD77}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
